@@ -20833,6 +20833,7 @@ xclip
 .rts-application-area .rts__section--description {
   max-width: 645px;
   text-align: center;
+	color:#d9d9d9;
 }
 .rts-application-area .rts-section-big-text {
   font-size: 96px;
